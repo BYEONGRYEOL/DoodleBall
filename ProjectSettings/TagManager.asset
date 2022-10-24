@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - myPen
+  - DefaultTile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CantDrawOver
+  - Over UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGrounds
+    uniqueID: 1892644215
+    locked: 0
+  - name: Articles
+    uniqueID: 3252351353
+    locked: 0
+  - name: New Layer
+    uniqueID: 3119920207
+    locked: 0
+  - name: UI
+    uniqueID: 1805253599
+    locked: 0
